@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.chart{
+    height: 50vh;
+    width: 60vw;
+}
